@@ -1,1 +1,1 @@
-web: gunicorn andi_first_app.wsgi
+web: gunicorn my_project.wsgi
